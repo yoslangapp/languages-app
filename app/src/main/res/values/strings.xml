@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BeSlangy</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="Lesson0_word">Good Morning</string>
+    <string name="Lesson1_word">Good Day</string>
+    <string name="Lesson2_word">Good Afternoon</string>
+    <string name="Lesson3_word">Good Evening</string>
+    <string name="Lesson4_word">Good Night</string>
+    <string name="Lesson5_word">Nighty.Night!</string>
+
+    <string name="Lesson0_meaning">used to say hello to someone in the morning</string>
+    <string name="Lesson1_meaning">used to say hello or goodbye to someone in the daytime</string>
+    <string name="Lesson2_meaning">used to say hello to someone in the afternoon</string>
+    <string name="Lesson3_meaning">used to say hello to someone in the evening</string>
+    <string name="Lesson4_meaning">used to express good wishes in the evening especially when someone is leaving or going to sleep</string>
+    <string name="Lesson5_meaning">used by a child or when speaking to a child as a way of saying "good night"</string>
+    <string name="next">Next</string>
+    <string name="play_button">play button</string>
+
+
+</resources>
